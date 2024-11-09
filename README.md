@@ -1,2 +1,2 @@
 # StudySmart
-An app for Students in AP
+An app for Students
